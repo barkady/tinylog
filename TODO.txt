@@ -1,0 +1,5 @@
+fix CMakeList:
+ * allow build minGW all ways
+ * allow moving header to resulting directory
+ * allow forming right result directory
+
